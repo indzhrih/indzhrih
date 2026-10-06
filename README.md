@@ -2,9 +2,9 @@
 ### I'm junior backend developer / data analyst
 
 # Projects:
-[Student Diary](https://github.com/indzhrih/Student-Diary) - Console app with implementation of design patterns
-[Flight-Tracker API](https://github.com/indzhrih/Flight-Tracker) - API that provides flight information in JSON format by flight number
-[Quizzes Web Application](https://github.com/indzhrih/Quizzes) - Web application on Rails 7.2.2.1 for creating and viewing quizzes
+- [Student Diary](https://github.com/indzhrih/Student-Diary) - Console app with implementation of design patterns
+- [Flight-Tracker API](https://github.com/indzhrih/Flight-Tracker) - API that provides flight information in JSON format by flight number
+- [Quizzes Web Application](https://github.com/indzhrih/Quizzes) - Web application on Rails 7.2.2.1 for creating and viewing quizzes
 
 # Skills:
 ### Languages: 
